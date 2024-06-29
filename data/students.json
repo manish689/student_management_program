@@ -1,0 +1,50 @@
+[
+    {
+        "name": "hari",
+        "roll_number": "1",
+        "email": "sadf@gmai.com",
+        "phone_number": 9090909089,
+        "marks": {
+            "c": 67,
+            "c++": 89,
+            "python": 99
+        },
+        "address": "sdfadfa"
+    },
+    {
+        "name": "ram",
+        "roll_number": "2",
+        "email": "sdf@gmail.com",
+        "phone_number": 6767675678,
+        "marks": {
+            "c": 78,
+            "c++": 99,
+            "python": 92
+        },
+        "address": "kalsi"
+    },
+    {
+        "name": "chirag",
+        "roll_number": "1",
+        "email": "sdfa@gad.com",
+        "phone_number": 1234567890,
+        "marks": {
+            "c": 45,
+            "c++": 67,
+            "python": 90
+        },
+        "address": "chabel"
+    },
+    {
+        "name": "dfas",
+        "roll_number": "4",
+        "email": "dfa@sasd.c",
+        "phone_number": 9090909090,
+        "marks": {
+            "c": 90,
+            "c++": 78,
+            "python": 89
+        },
+        "address": "sdfafas"
+    }
+]
